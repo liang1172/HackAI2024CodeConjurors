@@ -1,3 +1,3 @@
-# HackAI2024CodeConjurors
-  Code Conjurors
+# Code Conjurors
+  Allen Liang
   
